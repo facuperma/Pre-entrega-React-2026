@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Taladro percutor 13 mm",
+    "category": "herramientas",
+    "categoryLabel": "Herramientas",
+    "price": 89500,
+    "description": "Potencia y precisión para perforar madera, metal y mampostería. Una herramienta confiable para encarar arreglos en casa o trabajos profesionales con toda la garra.",
+    "material": "Mandril metálico · velocidad variable",
+    "use": "Perforaciones y reparaciones",
+    "emoji": "🔩",
+    "tone": "sand",
+    "badge": "MÁS ELEGIDO"
+  },
+  {
+    "id": 2,
+    "name": "Juego de destornilladores x 6",
+    "category": "herramientas",
+    "categoryLabel": "Herramientas",
+    "price": 18900,
+    "description": "Seis destornilladores con puntas planas y Phillips para tener siempre a mano. Agarre cómodo y resistente para resolver cada ajuste sin perder tiempo.",
+    "material": "Acero al cromo vanadio · mango antideslizante",
+    "use": "Armado, ajuste y mantenimiento",
+    "emoji": "🪛",
+    "tone": "clay",
+    "badge": "KIT COMPLETO"
+  },
+  {
+    "id": 3,
+    "name": "Pintura látex interior 20 L",
+    "category": "pintureria",
+    "categoryLabel": "Pinturería",
+    "price": 64900,
+    "description": "Pintura al agua de gran rendimiento, excelente cobertura y acabado mate. Renová tus ambientes con color y dejá cada pared lista para el próximo partido.",
+    "material": "Látex acrílico · acabado mate lavable",
+    "use": "Paredes y cielorrasos interiores",
+    "emoji": "🪣",
+    "tone": "sage",
+    "badge": "ALTO RENDIMIENTO"
+  },
+  {
+    "id": 4,
+    "name": "Rodillo antigota 22 cm",
+    "category": "pintureria",
+    "categoryLabel": "Pinturería",
+    "price": 9800,
+    "description": "Rodillo liviano para lograr una aplicación pareja y prolija. Su cubierta antigota ayuda a pintar más rápido y mantener limpio el espacio de trabajo.",
+    "material": "Poliéster de alta densidad · mango ergonómico",
+    "use": "Pintura de paredes y techos",
+    "emoji": "🎨",
+    "tone": "rose",
+    "badge": "FÁCIL APLICACIÓN"
+  },
+  {
+    "id": 5,
+    "name": "Kit de lámpara LED x 3",
+    "category": "electricidad",
+    "categoryLabel": "Electricidad",
+    "price": 14900,
+    "description": "Tres lámparas LED de bajo consumo, luz cálida y encendido instantáneo. Una solución práctica para iluminar los espacios de todos los días.",
+    "material": "Tecnología LED · rosca E27 · 9 W",
+    "use": "Iluminación doméstica",
+    "emoji": "💡",
+    "tone": "blue",
+    "badge": "AHORRO DE ENERGÍA"
+  },
+  {
+    "id": 6,
+    "name": "Grifería monocomando cocina",
+    "category": "plomeria",
+    "categoryLabel": "Plomería",
+    "price": 57900,
+    "description": "Grifería de líneas robustas y uso simple para renovar tu cocina. El comando único permite regular temperatura y caudal con una sola mano.",
+    "material": "Metal cromado · flexible incluido",
+    "use": "Instalación en bacha de cocina",
+    "emoji": "🚰",
+    "tone": "ochre",
+    "badge": "FÁCIL INSTALACIÓN"
+  }
+]

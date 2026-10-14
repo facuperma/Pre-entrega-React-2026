@@ -1,0 +1,27 @@
+:root {
+  font-family: Inter, "Helvetica Neue", Arial, sans-serif;
+  color: #30271f;
+  background: #fff9f1;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  --ink: #30271f;
+  --muted: #75675c;
+  --line: #ead7c5;
+  --paper: #fff9f1;
+  --green: #b84612;
+  --olive: #e78a36;
+  --serif: Georgia, "Times New Roman", serif;
+}
+
+* { box-sizing: border-box; }
+html { min-width: 320px; scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button, a { font: inherit; }
+button { cursor: pointer; }
+a { color: inherit; }
+::selection { color: white; background: #bc4b15; }
+:focus-visible { outline: 3px solid #e66b1f; outline-offset: 3px; }
